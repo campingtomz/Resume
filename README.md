@@ -20,15 +20,6 @@ all products within the Companies  environment
 *	Working with internal company teams to develop software, environment upgrades, and network security for business and clients alike
 *	Creating and maintaining client environments, software guides, internal and external project, and company documentation 
 
-
-Programing Languages 		
-
-*	Java, C++, Python, Dart, Flutter
-
-Technology 
-
-*	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, Thompson Reuters Accounting Software
-
 >#### **```Technical Skills```**
 
 Programing Languages 		
