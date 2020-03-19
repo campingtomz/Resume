@@ -1,16 +1,16 @@
 ## Thomas J. Zanis
 ```
-#### **>Professional Profile**
+#### **Professional Profile**
 ```
 ```
-#### **>Professional Experience**
+#### **Professional Experience**
 ```
 ```
-#### **>Technical Skills**
+#### **Technical Skills**
 ```
 ```
-#### **>Certificates**
+#### **Certificates**
 ```
 ```
-#### **>Projects**
+#### **Projects**
 ```
