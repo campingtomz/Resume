@@ -1,6 +1,5 @@
-<p align="center">
-  ## Thomas J. Zanis
-  </p>
+
+  ## <p align="center"> Thomas J. Zanis</p>
 
 >#### **```Professional Profile```**
 
