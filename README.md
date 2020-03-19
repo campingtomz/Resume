@@ -5,10 +5,10 @@
 
 Linked-in: 
 * * *
->### **```Professional Profile```**
+>#### **```Professional Profile```**
 Resourceful, purposeful IT professional with extensive experience with positively impacting operational performance and profitability through astute hardware and software technical expertise, business analysis, comprehensive management skills, and outstanding client service. 
 
->### **```Professional Experience```**
+>#### **```Professional Experience```**
 2011 to 2014: **IT Support Desk:** Pennsylvania State University
 * Managed and maintain Computer Center lab systems and networks for students and faculty
 * Provide user support for students and faculty for both personal and school affiliated computers
@@ -22,7 +22,7 @@ all products within the Companies  environment
 *	Working with internal company teams to develop software, environment upgrades, and network security for business and clients alike
 *	Creating and maintaining client environments, software guides, internal and external project, and company documentation 
 
->### **```Technical Skills```**
+>#### **```Technical Skills```**
 
 Programing Languages 		
 *	Java, C++, Python, Dart, Flutter
@@ -30,7 +30,7 @@ Programing Languages
 Technology 
 *	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, Thompson Reuters Accounting Software
 
->### **```Certificates```**
+>#### **```Certificates```**
 
 * Microsoft DEV210.2x: Intermediate C++
     -	Learned about pointers and memory management
@@ -47,5 +47,5 @@ Technology
     -	Java Objects, classes, Encapsulation, inheritance and polymorphism
 
 
->### **```Projects```**
+>#### **```Projects```**
 
