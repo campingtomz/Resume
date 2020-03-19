@@ -1,4 +1,4 @@
-### align="center"> Thomas J. Zanis
+### Thomas J. Zanis
 ---
 
 
