@@ -1,7 +1,7 @@
 ## Thomas J. Zanis
-```
+
 #### **Professional Profile**
-```
+
 ```
 #### **Professional Experience**
 ```
