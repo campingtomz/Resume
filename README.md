@@ -2,15 +2,11 @@
 
 >#### **```Professional Profile```**
 
-```
-#### **Professional Experience**
-```
-```
-#### **Technical Skills**
-```
-```
-#### **Certificates**
-```
-```
-#### **Projects**
-```
+>#### **```Professional Experience```**
+
+>#### **```Technical Skills```**
+
+>#### **```Certificates```**
+
+>#### **```Projects```**
+
