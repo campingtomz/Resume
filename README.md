@@ -4,6 +4,7 @@
  (267)-439-3555  Trevose, Pa 19053  Thomas.J.Zanis@gmail.com 
 
 Linked-in: 
+* * *
 >#### **```Professional Profile```**
 Resourceful, purposeful IT professional with extensive experience with positively impacting operational performance and profitability through astute hardware and software technical expertise, business analysis, comprehensive management skills, and outstanding client service. 
 
