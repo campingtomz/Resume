@@ -41,6 +41,10 @@ Technology
     -	Introduction to Unit Testing
   
 *	Microsoft DEV276x: Learn to Program in Java
+    -	Introduction to basic Java concepts, Control structures, functions and methods
+*	Microsoft: DEV277x: Object Oriented Programming in Java
+    -	Java Objects, classes, Encapsulation, inheritance and polymorphism
+
 
 >#### **```Projects```**
 
