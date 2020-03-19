@@ -1,5 +1,5 @@
 
-### Thomas J. Zanis
+$$ ### Thomas J. Zanis $$
 ---
 
 
@@ -16,7 +16,4 @@ Linked-in:
 
 >#### **```Projects```**
 
-Code blocks
-(function() {
-    console.log('code blocks indent four spaces');
-})()
+2
