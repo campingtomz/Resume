@@ -4,12 +4,14 @@
 
 Linked-in: 
 >#### **```Professional Profile```**
+
 2011 to 2014: **IT Support Desk:** Pennsylvania State University
 * Managed and maintain Computer Center lab systems and networks for students and faculty
 * Provide user support for students and faculty for both personal and school affiliated computers
 * Communicated with students and faculty to assess technical issues and answers questions
 
 2014 - 2019: **IT Consulting:** Spidernet Technical Consulting
+
 * Designing, implementing, integrating, and maintaining technology solutions for 90 Companies  
 *	Working directly with clients in order to perform hardware and software installations, maintenance, and on-going  troubleshooting with
 all products within the Companies  environment
@@ -17,9 +19,13 @@ all products within the Companies  environment
 *	Creating and maintaining client environments, software guides, internal and external project, and company documentation 
 
 >#### **```Professional Experience```**
+
 Programing Languages 		
+
 *	Java, C++, Python, Dart, Flutter
+
 Technology 
+
 *	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, Thompson Reuters Accounting Software
 
 >#### **```Technical Skills```**
