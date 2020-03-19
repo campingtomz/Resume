@@ -27,16 +27,15 @@ Technology
 >#### **```Certificates```**
 
 * Microsoft DEV210.2x: Intermediate C++
-  *	Learned about pointers and memory management
-  *	Classes, inheritance, encapsulation, virtual functions and abstract classes 
-  *	File integration and I/O stream
+    -	Learned about pointers and memory management
+    - Classes, inheritance, encapsulation, virtual functions and abstract classes 
+    -	File integration and I/O stream
   
 *	Microsoft DEV 275x: Writing Professional Code
-  *	Worked with Git/Github. Integrating it with projects and assignments
-  *	Introduction to Unit Testing
+    -	Worked with Git/Github. Integrating it with projects and assignments
+    -	Introduction to Unit Testing
   
 *	Microsoft DEV276x: Learn to Program in Java
 
 >#### **```Projects```**
-
 
