@@ -25,6 +25,7 @@ Technology
 >#### **```Technical Skills```**
 
 >#### **```Certificates```**
+
 * Microsoft DEV210.2x: Intermediate C++
   *	Learned about pointers and memory management
   *	Classes, inheritance, encapsulation, virtual functions and abstract classes 
