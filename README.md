@@ -5,7 +5,7 @@
 
 Linked-in: 
 * * *
->#### **Professional Profile**
+#### **```Professional Profile```**
 Resourceful, purposeful IT professional with extensive experience with positively impacting operational performance and profitability through astute hardware and software technical expertise, business analysis, comprehensive management skills, and outstanding client service. 
 
 >#### **```Professional Experience```**
