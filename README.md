@@ -9,10 +9,10 @@ Linked-in:
 Resourceful, purposeful IT professional with extensive experience with positively impacting operational performance and profitability through astute hardware and software technical expertise, business analysis, comprehensive management skills, and outstanding client service. 
 
 >#### **```Professional Experience```**
-   2011 to 2014: **IT Support Desk:** Pennsylvania State University
-   * Managed and maintain Computer Center lab systems and networks for students and faculty
-   * Provide user support for students and faculty for both personal and school affiliated computers
-   * Communicated with students and faculty to assess technical issues and answers questions
+2011 to 2014: **IT Support Desk:** Pennsylvania State University
+* Managed and maintain Computer Center lab systems and networks for students and faculty
+* Provide user support for students and faculty for both personal and school affiliated computers
+* Communicated with students and faculty to assess technical issues and answers questions
 
 2014 - 2019: **IT Consulting:** Spidernet Technical Consulting
 
