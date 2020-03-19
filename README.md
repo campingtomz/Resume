@@ -1,7 +1,7 @@
 
 Thomas J. Zanis
 | (267)-439-3555 | Trevose, Pa 19053 | Thomas.J.Zanis@gmail.com |
-|:--- | :---: | ---: |
+|:-------------- | :---------------: | -----------------------: |
 Linked-in: 
 >#### **```Professional Profile```**
 
