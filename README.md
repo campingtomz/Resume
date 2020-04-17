@@ -26,7 +26,7 @@ all products within the Companies  environment
 #### **```Technical Skills```**
 
 Programing Languages 		
-*	Java, C++, Python, Dart, Flutter
+*	Java, C++, Python
 
 Technology 
 *	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, Thompson Reuters Accounting Software
