@@ -52,7 +52,3 @@ Technology
     -	Introduction to basic Java concepts, Control structures, functions and methods
 *	Microsoft: DEV277x: Object Oriented Programming in Java
     -	Java Objects, classes, Encapsulation, inheritance and polymorphism
-
-
-#### **```Projects```**
-
