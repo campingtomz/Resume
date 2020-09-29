@@ -9,11 +9,17 @@ Linked-in:
 #### **```Professional Profile```**
 Resourceful, purposeful IT professional with extensive experience with positively impacting operational performance and profitability through astute hardware and software technical expertise, business analysis, comprehensive management skills, and outstanding client service. 
 
-#### **```Professional Experience```**
-2011 to 2014: **IT Support Desk:** Pennsylvania State University
-* Managed and maintain Computer Center lab systems and networks for students and faculty
-* Provide user support for students and faculty for both personal and school affiliated computers
-* Communicated with students and faculty to assess technical issues and answers questions
+July 2020 - Sepetember 2020: **Web Software Engineer:** Coder Foundry
+
+* Created three primary projects, including:
+* A portfolio site using C#, MVC, HTML5, CSS3, BOOTSTRAP, JS & jQuery.
+* A Financial Portal implemented in three phases. Phase 1: an MVC Web
+Application, Phase 2: a Web Service that utilizes Swagger and Swashbuckle for
+integrated testing, Phase 3: A cross platform Xamarin Mobile Application.
+* Fully designed and developed a multi-functional issue tracker web application,
+implementing enhanced roles & security, which also used a Code First Relational
+database designed and modeled in SQL Server. Technologies used include: .Net
+Framework v. 4.6.1, MVC5, C#, LINQ, SQL, Entity Framework, jQuery DataTables.
 
 2014 - 2019: **IT Consulting:** Spidernet Technical Consulting
 
@@ -26,7 +32,7 @@ all products within the Companies  environment
 #### **```Technical Skills```**
 
 Programing Languages 		
-*	Java, C++, Python
+*HTML5, CSS3, JavaScript/ES6, JQuery, Bootstrap, .NET, C#, MVC, ASP.NET, SQL & Bash, LINQ, Xamarin, WebAPI, Java
 
 Technology 
 *	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, Thompson Reuters Accounting Software
