@@ -7,7 +7,9 @@
 Linked-in: 
 * * *
 #### **```Professional Profile```**
-Resourceful, purposeful IT professional with extensive experience with positively impacting operational performance and profitability through astute hardware and software technical expertise, business analysis, comprehensive management skills, and outstanding client service. 
+Resourceful, purposeful IT professional with extensive experience with positively impacting operational 
+performance and profitability through astute hardware and software technical expertise, business analysis, 
+comprehensive management skills, and outstanding client service. 
 
 July 2020 - Sepetember 2020: **Web Software Engineer:** Coder Foundry
 
@@ -35,7 +37,8 @@ Programing Languages
 *HTML5, CSS3, JavaScript/ES6, JQuery, Bootstrap, .NET, C#, MVC, ASP.NET, SQL & Bash, LINQ, Xamarin, WebAPI, Java
 
 Technology 
-*	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, Thompson Reuters Accounting Software
+*	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, 
+Thompson Reuters Accounting Software
 
 #### **```Certificates```**
 
