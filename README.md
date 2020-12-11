@@ -4,8 +4,8 @@
  | (267)-439-3555 | Trevose, Pa 19053 | <a href="Thomas.J.Zanis@gmail.com">Thomas.J.Zanis</a> |
  | -------------- | :---------------: | -----------------------: |       
  
- <a href="https://tz-coderfoundry-portfolio.netlify.app/">My Portfolio</a>
-Linked-in: 
+ <a href="https://tz-coderfoundry-portfolio.netlify.app/">Portfolio</a>
+ <a href="https://www.linkedin.com/in/thomaszanis/">Linedin</a>
 * * *
 #### **```Professional Profile```**
 Resourceful, purposeful IT professional with extensive experience with positively impacting operational 
