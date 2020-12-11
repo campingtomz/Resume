@@ -37,7 +37,7 @@ all products within the Companies  environment
 #### **```Technical Skills```**
 
 Programing Languages 		
-*HTML5, CSS3, JavaScript/ES6, JQuery, Bootstrap, .NET, C#, MVC, ASP.NET, SQL & Bash, LINQ, Xamarin, WebAPI, Java
+* HTML5, CSS3, JavaScript/ES6, JQuery, Bootstrap, .NET, C#, MVC, ASP.NET, SQL & Bash, LINQ, Xamarin, WebAPI, Java
 
 Technology 
 *	Microsoft Azure, Office 365 Partner Management, Datto Backup & CRM, Autodesk PSA, Apple MDM, Windows Server and Desktop, Time Matters, 
