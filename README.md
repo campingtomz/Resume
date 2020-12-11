@@ -3,6 +3,7 @@
  
  | (267)-439-3555 | Trevose, Pa 19053 | <a href="Thomas.J.Zanis@gmail.com">Thomas.J.Zanis</a> |
  | -------------- | :---------------: | -----------------------: |       
+ 
  <a href="https://tz-coderfoundry-portfolio.netlify.app/">My Portfolio</a>
 Linked-in: 
 * * *
