@@ -2,7 +2,7 @@
  <h1 align=center> <b>Thomas J. Zanis</b> </h1>
  <div align=center> 
  
- | (267)-439-3555 | Trevose, Pa 19053 | <a href="Thomas.J.Zanis@gmail.com">Thomas.J.Zanis</a> | <a href="https://tz-coderfoundry-portfolio.netlify.app/">Portfolio</a> | <a href="https://www.linkedin.com/in/thomaszanis/">Linedin</a> |
+ | (267)-439-3555 | Trevose, Pa 19053 | Thomas.J.Zanis@gmail.com | <a href="https://tz-coderfoundry-portfolio.netlify.app/">Portfolio</a> | <a href="https://www.linkedin.com/in/thomaszanis/">Linedin</a> |
  | :--------------: | :--------------: | :--------------: | :--------------: | :--------------: |      
  
  </div>
